@@ -145,6 +145,11 @@ UI의 모델 선택기는 Ollama를 통해 설치된 Deepseek R1 모델을 자�
   </table>
 </div>
 
+## 채팅 예시
+
+![CleanShot 2025-02-01 at 19 49 12](https://github.com/user-attachments/assets/3c5b2d9b-0631-4cd9-bb9e-a0138b95deca)
+
+
 ## 📝 라이선스
 
 이 프로젝트는 [MIT](LICENSE) 라이선스를 따릅니다.
