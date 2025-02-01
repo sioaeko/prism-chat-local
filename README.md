@@ -2,7 +2,8 @@
 
 <div align="center">
   
-![CleanShot 2025-02-01 at 17 14 46](https://github.com/user-attachments/assets/b98ebd72-4e9b-46b7-8455-97cf140c9686)
+![english_main](https://github.com/user-attachments/assets/5a50ba65-f41a-4ed6-b187-a3018ef32059)
+
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
