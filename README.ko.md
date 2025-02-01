@@ -1,9 +1,8 @@
 # 🌈 Prism Chat
 
 <div align="center">
-
- ![CleanShot 2025-02-01 at 19 45 31](https://github.com/user-attachments/assets/d66944c2-a601-4329-bd7c-b0fd15abe9b6)
-
+ 
+![korean_main](https://github.com/user-attachments/assets/eb45568e-6d67-4555-aecc-efc5c24d4f31)
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -30,10 +29,7 @@
 
 ## ✨ 기능
 
-![CleanShot 2025-02-01 at 19 45 50](https://github.com/user-attachments/assets/bd9ce413-dedb-4dd2-a24d-26c6f1bcc027)
-
-
-
+![korean_model_settings](https://github.com/user-attachments/assets/c77cc78c-93b9-4a4a-ac50-28233f91364e)
 
 - 🤖 **다양한 모델 크기** - 여러 Deepseek R1 모델 중 선택:
   - 1.5B - 기본 작업을 위한 초경량 모델
@@ -100,7 +96,8 @@ npm run dev
 3. 메시지 입력창에 질문이나 요청사항 입력
 4. Enter 키(설정된 경우) 또는 전송 버튼을 클릭하여 메시지 전송
 
-![CleanShot 2025-02-01 at 19 45 50](https://github.com/user-attachments/assets/bd9ce413-dedb-4dd2-a24d-26c6f1bcc027)
+![korean_model_settings](https://github.com/user-attachments/assets/114ca64e-f180-426e-b700-46ac5480547c)
+
 
 ### 모델 선택
 
@@ -110,7 +107,8 @@ UI의 모델 선택기는 Ollama를 통해 설치된 Deepseek R1 모델을 자�
 - 각 채팅은 자체적인 모델 선택을 유지합니다
 - 새로운 채팅은 현재 선택된 모델을 기본값으로 사용합니다
 
-![CleanShot 2025-02-01 at 19 45 41](https://github.com/user-attachments/assets/44e10f7a-bf00-4d8a-9576-3d37a8a0d575)
+
+![korean_settings](https://github.com/user-attachments/assets/8e8e8bbf-ef25-4b9d-86b8-57bf8e73043d)
 
 
 ### 설정 관리
@@ -147,7 +145,7 @@ UI의 모델 선택기는 Ollama를 통해 설치된 Deepseek R1 모델을 자�
 
 ## 채팅 예시
 
-![CleanShot 2025-02-01 at 19 49 12](https://github.com/user-attachments/assets/3c5b2d9b-0631-4cd9-bb9e-a0138b95deca)
+![korean_chat](https://github.com/user-attachments/assets/a7bc8ef8-a25f-4931-a88c-795dfa7dc832)
 
 
 ## 📝 라이선스
