@@ -2,8 +2,8 @@
 
 <div align="center">
 
- ![CleanShot 2025-02-01 at 18 14 47](https://github.com/user-attachments/assets/f0718fe0-d62f-45ab-98e7-6556aefb2b5b)
- 
+ ![CleanShot 2025-02-01 at 19 45 31](https://github.com/user-attachments/assets/d66944c2-a601-4329-bd7c-b0fd15abe9b6)
+
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -30,7 +30,9 @@
 
 ## ✨ 기능
 
-![CleanShot 2025-02-01 at 17 48 34](https://github.com/user-attachments/assets/8771236e-d00b-426f-9533-9951f12d1a4f)
+![CleanShot 2025-02-01 at 19 45 50](https://github.com/user-attachments/assets/bd9ce413-dedb-4dd2-a24d-26c6f1bcc027)
+
+
 
 
 - 🤖 **다양한 모델 크기** - 여러 Deepseek R1 모델 중 선택:
@@ -98,6 +100,8 @@ npm run dev
 3. 메시지 입력창에 질문이나 요청사항 입력
 4. Enter 키(설정된 경우) 또는 전송 버튼을 클릭하여 메시지 전송
 
+![CleanShot 2025-02-01 at 19 45 50](https://github.com/user-attachments/assets/bd9ce413-dedb-4dd2-a24d-26c6f1bcc027)
+
 ### 모델 선택
 
 UI의 모델 선택기는 Ollama를 통해 설치된 Deepseek R1 모델을 자동으로 감지하고 사용합니다. UI에서 다른 모델 크기를 선택할 때:
@@ -105,6 +109,9 @@ UI의 모델 선택기는 Ollama를 통해 설치된 Deepseek R1 모델을 자�
 - 선택한 모델이 설치되어 있다면 현재 채팅에서 즉시 사용됩니다
 - 각 채팅은 자체적인 모델 선택을 유지합니다
 - 새로운 채팅은 현재 선택된 모델을 기본값으로 사용합니다
+
+![CleanShot 2025-02-01 at 19 45 41](https://github.com/user-attachments/assets/44e10f7a-bf00-4d8a-9576-3d37a8a0d575)
+
 
 ### 설정 관리
 
