@@ -1,8 +1,9 @@
 # 🌈 Prism Chat
 
 <div align="center">
-  
-  ![CleanShot 2025-02-01 at 17 15 01](https://github.com/user-attachments/assets/e1d9099f-c1c3-48e7-bac0-cce627ff1c1d)
+
+ ![CleanShot 2025-02-01 at 18 14 47](https://github.com/user-attachments/assets/f0718fe0-d62f-45ab-98e7-6556aefb2b5b)
+ 
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -29,6 +30,9 @@
 
 ## ✨ 기능
 
+![CleanShot 2025-02-01 at 17 48 34](https://github.com/user-attachments/assets/8771236e-d00b-426f-9533-9951f12d1a4f)
+
+
 - 🤖 **다양한 모델 크기** - 여러 Deepseek R1 모델 중 선택:
   - 1.5B - 기본 작업을 위한 초경량 모델
   - 7B - 일상적인 사용을 위한 효율적인 모델
@@ -37,6 +41,7 @@
   - 32B - 뛰어난 이해력을 가진 대형 모델
   - 70B - 복잡한 작업을 위한 고급 모델
   - 671B - 최고 성능을 위한 최상위 모델
+  
 - 🔄 **자동 모델 전환** - UI에서 설치된 Ollama 모델 간 자연스러운 전환
 - 🌍 **다국어 지원** - 한국어/영어 인터페이스
 - 💬 **채팅 관리** - 대화 기록 저장 및 관리
