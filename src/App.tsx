@@ -221,8 +221,8 @@ function App() {
                 </div>
                 <p className="text-gray-400 text-center mb-12 max-w-lg">
                   {settings.language === 'ko' 
-                    ? 'Prism Chat은 한국에서 호스팅되는 DeepSeek R1 모델을 제공하는 플랫폼입니다. 강력한 AI 기능으로 다양한 작업을 수행할 수 있습니다.'
-                    : 'Prism Chat is a platform providing the DeepSeek R1 model hosted in South Korea. Experience powerful AI capabilities for various tasks.'}
+                    ? 'Prism Chat (local)은 Ollama로 직접 구동한 로컬 DeepSeek R1 모델을 손쉽게 사용할 수 있는 WebUI 인터페이스입니다.'
+                    : 'Prism Chat (local) is a WebUI interface that allows you to easily use the local DeepSeek R1 model running directly with Ollama.'}
                 </p>
                 <div className="grid grid-cols-2 gap-4 w-full max-w-2xl mx-auto">
                   <div className="col-span-2 text-center text-sm text-gray-400 mb-2">
