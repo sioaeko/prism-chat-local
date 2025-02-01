@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  ![CleanShot 2025-02-01 at 17 14 46](https://github.com/user-attachments/assets/b98ebd72-4e9b-46b7-8455-97cf140c9686)
-
+  ![CleanShot 2025-02-01 at 18 14 54](https://github.com/user-attachments/assets/613c85e3-e9d4-4e41-bb9b-e5058f4a8172)
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -29,6 +28,8 @@
 </div>
 
 ## ✨ Features
+
+![CleanShot 2025-02-01 at 17 48 34](https://github.com/user-attachments/assets/6d7c4451-1478-47f4-9fe9-39ce711b0c08)
 
 - 🤖 **Multiple Model Sizes** - Choose from various Deepseek R1 models:
   - 1.5B - Ultra-lightweight model for basic tasks
