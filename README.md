@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![CleanShot 2025-02-01 at 18 14 54](https://github.com/user-attachments/assets/613c85e3-e9d4-4e41-bb9b-e5058f4a8172)
+![english_main](https://github.com/user-attachments/assets/1b7ef391-ee59-436b-b25f-185bb6ae0d2c)
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -29,7 +29,7 @@
 
 ## ✨ Features
 
-![CleanShot 2025-02-01 at 17 48 34](https://github.com/user-attachments/assets/6d7c4451-1478-47f4-9fe9-39ce711b0c08)
+![english_model_settings](https://github.com/user-attachments/assets/34c79977-96e8-4570-91b7-0d93b155522e)
 
 - 🤖 **Multiple Model Sizes** - Choose from various Deepseek R1 models:
   - 1.5B - Ultra-lightweight model for basic tasks
@@ -94,6 +94,8 @@ npm run dev
 3. Enter your question or request in the message input
 4. Send message using Enter key (if enabled) or send button
 
+![english_model_settings](https://github.com/user-attachments/assets/c1718f2d-53c6-439e-8eb4-4a108bae907b)
+
 ### Model Selection
 
 The model selector in the UI automatically detects and uses any Deepseek R1 model installed through Ollama. When you select a different model size in the UI:
@@ -101,6 +103,8 @@ The model selector in the UI automatically detects and uses any Deepseek R1 mode
 - If the selected model is installed, it will be used immediately for the current chat
 - Each chat maintains its own model selection
 - New chats will use the currently selected model by default
+
+![english_settings](https://github.com/user-attachments/assets/0af31ba3-1ec6-4f2d-a8b1-de89eeb71d57)
 
 ### Managing Settings
 
@@ -133,6 +137,11 @@ The model selector in the UI automatically detects and uses any Deepseek R1 mode
     </tr>
   </table>
 </div>
+
+## Chat Sample
+
+![english_chat](https://github.com/user-attachments/assets/68a91c2d-f8d6-47f0-8714-6b23852adab0)
+
 
 ## 📝 License
 
