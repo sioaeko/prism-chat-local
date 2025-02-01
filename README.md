@@ -2,31 +2,19 @@
 
 <div align="center">
   
-  <a href="https://github.com/sioaeko/prism-chat">
-    <img src="https://github.com/user-attachments/assets/1b7ef391-ee59-436b-b25f-185bb6ae0d2c" alt="Prism Chat Main" width="100%" />
-  </a>
+![CleanShot 2025-02-01 at 17 14 46](https://github.com/user-attachments/assets/b98ebd72-4e9b-46b7-8455-97cf140c9686)
 
   <p align="center">
-    <a href="https://reactjs.org">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    </a>
-    <a href="https://www.typescriptlang.org">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </a>
-    <a href="https://tailwindcss.com">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </a>
-    <a href="https://vitejs.dev">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    </a>
-    <a href="LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="MIT License" />
-    </a>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="MIT License" />
   </p>
 
-  <h2>🤖 Powerful AI Chat Platform based on Deepseek R1</h2>
+  <h3>Powerful AI Chat Platform based on Deepseek R1</h3>
 
-  <p align="center">
+  <p>
     <b>
       <a href="#-features">Features</a> •
       <a href="#-getting-started">Getting Started</a> •
@@ -36,20 +24,12 @@
     </b>
   </p>
 
-  <p align="center">
-    <a href="README.md">English</a> | <a href="README.ko.md">한국어</a>
-  </p>
-
-  <br />
+  [English](README.md) | [한국어](README.ko.md)
 </div>
 
 ## ✨ Features
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/34c79977-96e8-4570-91b7-0d93b155522e" alt="Model Selection" width="100%" />
-</div>
-
-<br />
+![english_model_settings](https://github.com/user-attachments/assets/34c79977-96e8-4570-91b7-0d93b155522e)
 
 ### 🎯 Key Features
 
@@ -64,45 +44,41 @@
   | 70B | Advanced model | Professional tasks, deep analysis |
   | 671B | Ultimate model | Maximum performance, expert-level tasks |
 
-- 🔄 **Automatic Model Switching**
-  - Seamless transition between installed Ollama models
-  - Real-time model detection and integration
-  - Per-chat model persistence
+> **Cloud Service**: The online version of Prism Chat provides access to the 671B model powered by Azure and Chutes compute servers, offering maximum performance without local installation requirements.
 
-- 🌟 **Enhanced Features**
-  - 🌍 Multilingual Support (Korean/English)
-  - 💬 Advanced Chat Management
-  - 🎨 Customizable Themes
-  - 📱 Responsive Design
-  - ⌨️ Smart Input Handling
-  - 🔤 Flexible Font Controls
+- 🔄 **Automatic Model Switching** - Seamlessly switch between installed Ollama models in the UI
+- 🌍 **Multilingual** - Korean/English interface
+- 💬 **Chat Management** - Save and manage conversation history
+- 🎨 **Theme Options** - Light/Dark/System theme
+- 📱 **Responsive Design** - Optimized experience across all devices
+- ⌨️ **Convenient Input** - Send messages with Enter key (configurable)
+- 🔤 **Font Size Control** - Small/Medium/Large settings
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Node.js 18.0.0 or higher
-- [Ollama](https://ollama.ai) with Deepseek R1 model
+- [Ollama](https://ollama.ai) installed with Deepseek R1 model
 
 ### Installation
 
-1️⃣ Clone repository
+1. Clone repository
 ```bash
 git clone https://github.com/sioaeko/prism-chat.git
 cd prism-chat
 ```
-
-2️⃣ Install dependencies
+2. Install dependencies
 ```bash
 npm install
 ```
 
-3️⃣ Run Ollama and download models
+3. Run Ollama and download Deepseek R1 model (choose your preferred size)
 ```bash
-# Default model (14B)
+# For 14B model (default)
 ollama run deepseek-r1:14b
 
-# Additional models
+# For other sizes
 ollama run deepseek-r1:1.5b  # Ultra-lightweight
 ollama run deepseek-r1:7b    # Efficient
 ollama run deepseek-r1:8b    # Enhanced lightweight
@@ -111,7 +87,7 @@ ollama run deepseek-r1:70b   # Advanced
 ollama run deepseek-r1:671b  # Ultimate
 ```
 
-4️⃣ Start development server
+4. Start development server
 ```bash
 npm run dev
 ```
@@ -120,44 +96,29 @@ npm run dev
 
 ### Starting a Chat
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c1718f2d-53c6-439e-8eb4-4a108bae907b" alt="Chat Interface" width="100%" />
-</div>
+1. Click "New Chat" button to start a new conversation
+2. Select your preferred model size from the dropdown menu
+3. Enter your question or request in the message input
+4. Send message using Enter key (if enabled) or send button
 
-1. Click "New Chat" to begin
-2. Choose your preferred model
-3. Type your message
-4. Send using Enter key or button
+![english_model_settings](https://github.com/user-attachments/assets/c1718f2d-53c6-439e-8eb4-4a108bae907b)
 
 ### Model Selection
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0af31ba3-1ec6-4f2d-a8b1-de89eeb71d57" alt="Settings" width="100%" />
-</div>
+The model selector in the UI automatically detects and uses any Deepseek R1 model installed through Ollama. When you select a different model size in the UI:
 
-The intelligent model selector offers:
-- 🔍 Automatic detection of installed models
-- 🔄 Instant model switching
-- 💾 Per-chat model memory
-- 🎯 Smart default selection
+- If the selected model is installed, it will be used immediately for the current chat
+- Each chat maintains its own model selection
+- New chats will use the currently selected model by default
 
-### Settings & Customization
+![english_settings](https://github.com/user-attachments/assets/0af31ba3-1ec6-4f2d-a8b1-de89eeb71d57)
 
-Personalize your experience with:
-- 🎨 **Theme Options**
-  - Light mode for bright environments
-  - Dark mode for low-light conditions
-  - System-based automatic switching
-- 📏 **Font Sizing**
-  - Small for compact viewing
-  - Medium for optimal readability
-  - Large for enhanced visibility
-- 🌐 **Language Selection**
-  - English interface
-  - Korean interface
-- ⚡ **Quick Actions**
-  - Enter key configuration
-  - Shortcut customization
+### Managing Settings
+
+- **Theme**: Choose Light/Dark/System theme in sidebar settings
+- **Font Size**: Select Small/Medium/Large
+- **Language**: Choose Korean/English
+- **Enter Key**: Configure message sending with Enter key
 
 ## 🛠 Tech Stack
 
@@ -184,11 +145,9 @@ Personalize your experience with:
   </table>
 </div>
 
-## 💬 Chat Sample
+## Chat Sample
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/68a91c2d-f8d6-47f0-8714-6b23852adab0" alt="Chat Example" width="100%" />
-</div>
+![english_chat](https://github.com/user-attachments/assets/68a91c2d-f8d6-47f0-8714-6b23852adab0)
 
 ## 📝 License
 
@@ -196,30 +155,20 @@ This project is [MIT](LICENSE) licensed.
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how:
+Contributions, issues and feature requests are welcome!
 
-1. 🍴 Fork the Project
-2. 🌿 Create your Feature Branch
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. 💾 Commit your Changes
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. 📤 Push to the Branch
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. 🔍 Open a Pull Request
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## 📧 Contact
 
+Project Link: [https://github.com/sioaeko/prism-chat](https://github.com/sioaeko/prism-chat)
+
+---
+
 <div align="center">
-  
-  **Project Link:** [https://github.com/sioaeko/prism-chat](https://github.com/sioaeko/prism-chat)
-  
-  <br />
-  
   <sub>Built with ❤️ by sioaeko</sub>
 </div>
